@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/ArticulationRobot.unity
+    guid: 94fa6bc4b68eb4fd0b73c109f3ff4e02
+  - enabled: 1
+    path: Assets/Scenes/GripperScene.unity
+    guid: 996f630712a85489291f1a1dee37a289
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 671ff8b837c03ce448c2e780582b89de, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b8a3bdeb5cb9261439d2e966b6ca2237, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 972819eab9917364eab6dd64def8378a, type: 2}

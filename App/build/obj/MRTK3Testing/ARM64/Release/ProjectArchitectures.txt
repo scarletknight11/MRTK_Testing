@@ -1,0 +1,1 @@
+D:\MRTK3Testing\App\MRTK3Testing\MRTK3Testing.vcxproj;arm64
