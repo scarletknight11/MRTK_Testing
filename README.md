@@ -5,8 +5,8 @@ Modifed GripperDemoController.cs & PincherController.cs C# scripts and wired up 
 
 Setting up MRTK 3 instructions can be found here: https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/setup
 
+Go into 'Scenes' folder and look for the scene name 'GripperScene'. Click that and it will open up the scene as the image is shown below
 
-Image
 ![image](https://user-images.githubusercontent.com/3290334/201193064-969d59d3-1e45-4ecc-8052-dd94a2f2c7eb.png)
 
 
