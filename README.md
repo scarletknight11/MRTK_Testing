@@ -10,4 +10,6 @@ Go into 'Scenes' folder and look for the scene name 'GripperScene'. Click that a
 ![image](https://user-images.githubusercontent.com/3290334/201193064-969d59d3-1e45-4ecc-8052-dd94a2f2c7eb.png)
 
 
+Instructions on how to deploy app from Unity Hololens: https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/build-and-deploy-to-hololens
+
 Youtube Demo: https://youtu.be/09cHRgX9w70
