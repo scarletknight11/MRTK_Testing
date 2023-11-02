@@ -3,7 +3,7 @@ Created Unity project to experiment with Microsoft Latest MRTK 3 with utilizatio
 
 Modifed GripperDemoController.cs & PincherController.cs C# scripts and wired up those scripts to MRTK 3's latest UI Asssets for controlling robot manipulation movement and grips from user panel
 
-Setting up MRTK 3 instructions can be found here: https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/setup
+Setting up MRTK 3 instructions can be found here: https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/getting-started/overview
 
 Go into 'Scenes' folder and look for the scene name 'GripperScene'. Click that and it will open up the scene as the image is shown below
 
